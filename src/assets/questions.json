@@ -1,0 +1,157 @@
+{
+    "questions": [{
+            "questionText": "Who is the father of C?",
+            "options": [{
+                    "text": "Dennis ritchie",
+                    "correct": true
+                },
+                {
+                    "text": "James Gosling"
+                },
+                {
+                    "text": "Guido van Rossum"
+                },
+                {
+                    "text": "Sergey Brin"
+                }
+            ]
+            
+        },
+        {
+            "questionText": "What is HTML used for?",
+            "options": [{
+                    "text": "HTML describes the structure of a webpage"
+                },
+                {
+                    "text": "HTML is the standard markup language mainly used to create web pages"
+                },
+                {
+                    "text": "HTML consists of a set of elements that helps the browser how to view the content"
+                },
+                {
+                    "text": "All of the mentioned",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "HTML full form",
+            "options": [{
+                    "text": "HyperText Machine Language"
+                },
+                {
+                    "text": "HyperText Markup Language",
+                    "correct": true
+                },
+                {
+                    "text": "HyperText Marking Language"
+                },
+                {
+                    "text": "HighText Marking Language"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the correct syntax of print in python?",
+            "options": [{
+                    "text": "print 'msg'"
+                },
+                {
+                    "text": "print('''msg''')",
+                    "correct": true
+                },
+                {
+                    "text": "print msg"
+                },
+                {
+                    "text": "print(msg)"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is array declaration in Python?",
+            "options": [{
+                    "text": "a=[]",
+                    "correct": true
+                },
+                {
+                    "text": "a[]=new []"
+                },
+                {
+                    "text": "int a[] = new int[5]"
+                },
+                {
+                    "text": "a=new int [5]"
+                }
+            ]
+        },
+        {
+            "questionText": "How do we write multi line comments in python?",
+            "options": [{
+                    "text": "<!....>"
+                },
+                {
+                    "text": "#....."
+                },
+                {
+                    "text": "/*............*/"
+                },
+                {
+                    "text": " '''.........''' ",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following elements in HTML5 defines video or movie content ?",
+            "options": [{
+                    "text": "<audio>"
+                },
+                {
+                    "text": "<video>",
+                    "correct": true
+                },
+                {
+                    "text": "<media>"
+                },
+                {
+                    "text": "<movie>"
+                }
+            ]
+        },
+        {
+            "questionText": "Which element is used for or styling HTML page?",
+            "options": [{
+                    "text": "CSS",
+                    "correct": true
+                },
+                {
+                    "text": "jQuery"
+                },
+                {
+                    "text": "JavaScript"
+                },
+                {
+                    "text": "PHP"
+                }
+            ]
+        },
+        {
+            "questionText": "Syntax of print statement in java? ",
+            "options": [{
+                    "text": "System.out.println('msg') ",
+                    "correct": true
+                },
+                {
+                    "text": "system.out.print('msg')"
+                },
+                {
+                    "text": "system.Out.Println('msg') "
+                },
+                {
+                    "text": "System.Out.Println('msg') "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<app-header></app-header>
+
+<div class="container bg-light py-5">
+    <h1 class="text-center">Basic Programming Quiz</h1>
+    <p>Attempt all question<br>9 MCQ questions<br>Elegibility criteria :- Scoring above 60</p>
+
+    <div class="form-group">
+        
+        <input #name type="text" class="form-control"  placeholder="Enter Your Registered mail id " required>
+        <br>
+        <button  class="btn btn-success btn-lg btn-block" routerLink="/question" (click)="startQuiz()" >Start The Quiz</button>
+    </div>
+</div>
